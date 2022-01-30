@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @technicalowl
+- 👋 Hi, I’m @Vishal_Kumar
 - 👀 I’m interested in competative coading and web development
 - 🌱 I’m currently learning HTMl and CSS with java and c++
 - 💞️ I’m looking to collaborate on 
